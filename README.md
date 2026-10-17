@@ -5,10 +5,7 @@
 
 ### Aspiring Software Engineer | HSC '27 | Problem Solver
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SA-IS-TO&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SA-IS-TO?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-</p>
+
 
 **Learning every day. Building useful things. Improving one project at a time.**
 
